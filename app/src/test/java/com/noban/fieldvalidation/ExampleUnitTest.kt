@@ -1,4 +1,4 @@
-package com.example.fieldvalidation
+package com.noban.fieldvalidation
 
 import org.junit.Test
 
